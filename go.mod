@@ -1,1 +1,1 @@
-module "common"
+module "github.com/ZhangLi1995/go-common"
